@@ -32,7 +32,12 @@ Our user is someone who aspires to be as Gouda as Alex Merced...but skill level 
 - add or edit did's/minutes if desired
 - delete did as they want
 ## Components
-
+- didit
+- Modal
+- AllLogs
+- Form
+- SingleLog
+- Timer
 
 ## Challenges
 
@@ -46,4 +51,3 @@ Our user is someone who aspires to be as Gouda as Alex Merced...but skill level 
 - JS
 - Heroku & Netlify
 - Google/YouTube/Slack
-- Cheezits of course
